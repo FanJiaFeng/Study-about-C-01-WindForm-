@@ -1,8 +1,8 @@
 # 飞机大战开发思路
 
 ## 1、设计整个游戏中的顶级父类
-###GameObjec:属性成员：X、Y、Width、Height、Speed、Life、Direction
-###构造函数
+### GameObjec:属性成员：X、Y、Width、Height、Speed、Life、Direction
+### 构造函数
 		Move()函数：在场景中进行移动
 		abstract DrawGameObject(Graphics g)：绘制自己到窗体
 		abstract MoveToBorder()：移动到边框要采取的措施
