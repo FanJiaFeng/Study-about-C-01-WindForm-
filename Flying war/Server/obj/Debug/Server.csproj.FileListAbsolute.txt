@@ -1,0 +1,8 @@
+F:\C#PlayGo\Flying war\Server\bin\Debug\Server.exe.config
+F:\C#PlayGo\Flying war\Server\bin\Debug\Server.exe
+F:\C#PlayGo\Flying war\Server\bin\Debug\Server.pdb
+F:\C#PlayGo\Flying war\Server\obj\Debug\Server.Form1.resources
+F:\C#PlayGo\Flying war\Server\obj\Debug\Server.Properties.Resources.resources
+F:\C#PlayGo\Flying war\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+F:\C#PlayGo\Flying war\Server\obj\Debug\Server.exe
+F:\C#PlayGo\Flying war\Server\obj\Debug\Server.pdb

@@ -1,0 +1,9 @@
+F:\C#PlayGo\Flying war\Flying war\bin\Debug\Flying war.exe.config
+F:\C#PlayGo\Flying war\Flying war\bin\Debug\Flying war.exe
+F:\C#PlayGo\Flying war\Flying war\bin\Debug\Flying war.pdb
+F:\C#PlayGo\Flying war\Flying war\obj\Debug\Flying war.csprojResolveAssemblyReference.cache
+F:\C#PlayGo\Flying war\Flying war\obj\Debug\Flying_war.Properties.Resources.resources
+F:\C#PlayGo\Flying war\Flying war\obj\Debug\Flying war.csproj.GenerateResource.Cache
+F:\C#PlayGo\Flying war\Flying war\obj\Debug\Flying war.exe
+F:\C#PlayGo\Flying war\Flying war\obj\Debug\Flying war.pdb
+F:\C#PlayGo\Flying war\Flying war\obj\Debug\Flying_war.Form1.resources
